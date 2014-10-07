@@ -12,9 +12,9 @@ import org.junit.runners.Suite.SuiteClasses;
 /**
  * Start each Class or interface with a summary description line
  *
- * @author RexIII
+ * @author RexIII + lll
  * @version 1.0
- *
+ *k
  */
 @RunWith(Suite.class)
 @SuiteClasses({ LightOnCommandTest.class, LightTest.class })
